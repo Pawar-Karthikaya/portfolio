@@ -1310,7 +1310,7 @@ body.light-skin .header.sticky .navbar.default:before {
 }
 
 .header .logo img {
-    max-width: 10vh;
+    max-width: 200px;
     height: auto;
     transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
     -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -2039,7 +2039,7 @@ body.light-skin .header.sticky .navbar.default:before {
 
 .hero-started .title {
     font-family: "Sorts Mill Goudy";
-    font-size: 138px;
+    font-size: 120px;
     line-height: 0.9;
     color: #FFF;
     font-weight: 400;
@@ -2557,9 +2557,9 @@ body.light-skin .header.sticky .navbar.default:before {
 }
 
 .works-items.works-list-items .works-item .desc .name {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-family: "Sorts Mill Goudy";
-    font-size: 100px;
+    font-size: 60px;
     line-height: 1;
     color: #fff;
     font-weight: 300;
@@ -2654,7 +2654,7 @@ body.light-skin .header.sticky .navbar.default:before {
 
 .pricing-item .price {
     margin: 60px 0 50px 0;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700
 }
 
